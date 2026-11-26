@@ -1,0 +1,8 @@
+{
+  "name": "Iron Captain",
+  "description": "3D industrial-maritime tactical RPG inside VRMMO Hydrogen: hack physics, lead your crew aboard the Polina L., and beat the corporate Profit-Gateway.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
